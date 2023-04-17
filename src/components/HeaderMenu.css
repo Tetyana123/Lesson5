@@ -1,0 +1,21 @@
+#navar-brand {
+    font-size: 30px;
+}
+
+.price-checkout {
+  text-align: right;
+  display: flex;
+  align-items: center;
+}
+
+.price-checkout-value {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.navbar {
+ border-bottom: 1px solid black;
+ box-shadow: 0px 2px #0227fb;
+}
